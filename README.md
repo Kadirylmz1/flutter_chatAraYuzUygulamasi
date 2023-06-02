@@ -6,6 +6,8 @@ Navigator.pushNamed çalıştığında artık TextFormField’a gireceğimiz bu 
 Daha önce oluşturduğumuz VeriModeli tipinde bir değişken yazdım.
 İsmini iletilenArgumanlar koyuyorum. ModalRoute ile aşağıdaki şekilde, önceki ekrandan Navigator.pushNamed’in arguments parametresi ile buraya iletilen değerlere erişip, iletilenArgumanlar değişkenine atıyoruz.
 Ve uygulamam hazır hale geliyor.
+
+
 Kadir Yılmaz
 
 
